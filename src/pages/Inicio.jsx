@@ -12,7 +12,7 @@ export default function Inicio(){
   />
         <div>
           <h2>Olá — Leonardo Borges da Costa</h2>
-          <p>Sou estudante de desenvolvimento web. Aqui apresento projetos desenvolvidos durante o curso e formas de contato.</p>
+          <p>Sou um estudante de engenharia de software, na fiap! venho aqui apresentar projetos desenvolvidos durante o curso e minhas formas de contato.</p>
           <p>Principais tecnologias: HTML, CSS, JavaScript e React.</p>
         </div>
       </div>
