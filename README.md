@@ -2,7 +2,7 @@
 
 # Portfólio — Leonardo Borges da Costa
 
-Este repositório tem meu portfólio pessoal de trabalho, aqui apresento kinhas de códigos com rotas, lista de projetos com busca, apresentação pessoal e meu formulário de contato.
+Este repositório tem meu portfólio pessoal de trabalho, aqui apresento linhas de códigos com rotas, lista de projetos com busca, apresentação pessoal e meu formulário de contato.
  O projeto foi feito como cp3 do curso de Web Dev.
 
 ## Funcionalidades usadas
